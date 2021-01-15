@@ -12,7 +12,7 @@ author: Alizée Girard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  À propos: "aboutme"
+  À propos: "apropos"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
