@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Alizée Girard, M.Sc.
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Site web professionnel
 
 # Your name to show in the footer
-author: Alizée Girard
+author: Alizée Girard (inspiration Dean Attali)
 
 # --- List of links in the navigation bar --- #
 
@@ -41,7 +41,7 @@ social-network-links:
   email: "someone@example.com"
   facebook: deanattali
   github: daattali
-  twitter: daattali
+  twitter: AlizeeAlyzeeg
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
