@@ -14,9 +14,8 @@ author: Alizee Girard (inspiration Dean Attali)
 navbar-links:
   À propos: "apropos"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Créez votre site internet: "https://beautifuljekyll.com"
+    - Appernez R markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
