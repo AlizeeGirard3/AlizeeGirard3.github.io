@@ -1,20 +1,30 @@
 ---
 layout: post
 title: Caractérisation des milieux humides et hydriques
-subtitle: Pour obtenir un permis auprès des municipalités
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle:
+tags: [Avis d'expert]  
+[Demande de certificat autorisation]
+[Déclarations de conformité]
 comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+Plusieurs des bénéfices rendus par les milieux humides et hydriques sont aujourd'hui reconnus au Québec: la loi encadre certaines activités au sein de ces écosystèmes sensibles. Afin d'obtenir un permis de construction au près des municipalités, il est nécessaire d'avoir en main un avis d'expert indiquant si des milieux humides, des cours d'eau ou des étendues d'eau se trouvent sur le territoire et leurs limites, le cas échéant. Ces avis doivent être fournis par des professionnels du domaine de l'environnement. 
+
+Je vous propose une étude de la communauté végétale de votre territoire, incluant un rapport, une cartographie détaillée, des délimitations terrestres ainsi que des données géospatiales utilisables par les autres intervenants au projet (arpenteurs, etc.).
+
+###Services connexes
+tags: [Demande de certificat autorisation]
+[Déclarations de conformité]
+
 
 **Here is some bold text**
 
 ## Here is a secondary heading
 
 Here's a useless table:
+
+
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
