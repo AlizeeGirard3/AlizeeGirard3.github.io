@@ -14,7 +14,7 @@ author: Alizee Girard (Merci à Dean Attali pour le code original)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  À propos: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
