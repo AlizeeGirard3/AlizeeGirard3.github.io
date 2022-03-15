@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Caractérisation des milieux humides et hydriques
-subtitle: essai
-cover-img: /assets/img/automne.jpg
-tags: [Avis d'expert],[Demande de certificat autorisation],[Déclarations de conformité]
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 ---
 
 
@@ -15,3 +17,12 @@ Je vous propose une étude de la communauté végétale de votre territoire, inc
 ### Sujets connexes
 tags: [Demande de certificat autorisation]  
 [https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm](https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm)
+
+
+
+
+layout: post
+title: Caractérisation des milieux humides et hydriques
+subtitle: essai
+cover-img: /assets/img/automne.jpg
+tags: [Avis d'expert],[Demande de certificat autorisation],[Déclarations de conformité]
