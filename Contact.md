@@ -5,5 +5,5 @@ subtitle:
 ---
 
 #### Alizée Girard
-[alizeegirard3@gmail.com] 
-(514) 290-8488  
+alizeegirard3@gmail.com  
+(514) 290-8488
