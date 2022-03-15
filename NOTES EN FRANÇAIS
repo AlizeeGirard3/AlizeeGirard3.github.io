@@ -8,3 +8,17 @@ _config.yml
 
 assets
 -> contient img -> images
+
+
+COULEURS
+navbar-col: "#EAEAEA" gris pâle
+navbar-text-col: "#404040" gris foncé
+navbar-border-col: "#DDDDDD" gris moyen
+page-col: "#FFFFFF" blanc
+text-col: "#404040" gris foncé
+link-col: "#2DA644" # nouvelle couleur vert LOGO  //  # "#008AFF" bleu ciel + foncé
+hover-col: "#0085A1" # sur lignage et survol
+footer-col: "#EAEAEA" gris pâle
+footer-text-col: "#777777" gris
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
