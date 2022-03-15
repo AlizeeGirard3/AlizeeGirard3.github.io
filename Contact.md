@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Vous avez besoin d'une biologiste ? Contactez-moi !
 subtitle:
 ---
-
-<div align="center"> # Vous avez besoin d'une biologiste ? Contactez-moi !
   
 <div align="center">### Alizée Girard  
 <div align="center">alizeegirard3@gmail.com  
