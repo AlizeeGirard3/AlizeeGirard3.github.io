@@ -14,6 +14,5 @@ Je vous propose une étude de la communauté végétale de votre territoire, inc
 
 
 ### Sujets connexes
-tags: [Demande de certificat autorisation]
-[Déclarations de conformité]
+tags: [Demande de certificat autorisation]  
 [https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm](https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm)
