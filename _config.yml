@@ -17,8 +17,9 @@ navbar-links:
   À propos: "aboutme"
   Publications:
   Liens externes:
-    - Article Girard, Schweiger, Carteron et al. 2020 : "https://www.mdpi.com/2072-4292/12/15/2448"
-    - Article Girard, Ayotte et Laliberté. 2020 : "https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye"
+    - Article Girard, Schweiger, Carteron et al. 2020: "https://www.mdpi.com/2072-4292/12/15/2448"
+    - Article Girard, Ayotte et Laliberté. 2020: "https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye"
+    - Mémoire de Maîtrise: "https://papyrus.bib.umontreal.ca/xmlui/handle/1866/24417"
     - Créez votre propre site sur la plateforme GitHub Pages/Jekyll: "https://beautifuljekyll.com"
     - Apprenez R markdown: "https://www.markdowntutorial.com/"
 
