@@ -15,7 +15,7 @@ author: Alizee Girard (Merci à Dean Attali pour le code original)
 
 navbar-links:
   À propos: "aboutme"
-  Demande de services: "Contact"
+  Contact: "Contact"
   Liens externes:
     - Article Girard, Schweiger, Carteron et al. 2020: "https://www.mdpi.com/2072-4292/12/15/2448"
     - Article Girard, Ayotte et Laliberté. 2020: "https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye"
@@ -46,7 +46,7 @@ social-network-links:
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: AlizeeGirard3
-  linkedin: alizee-girard-agir # ne fonctionne pas !
+  linkedin: alizee-girard-agir
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
