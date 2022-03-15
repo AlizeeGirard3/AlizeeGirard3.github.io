@@ -13,9 +13,12 @@ Plusieurs des bénéfices rendus par les milieux humides et hydriques sont aujou
 
 Je vous propose une étude de la communauté végétale de votre territoire, incluant un rapport, une cartographie détaillée, des délimitations terrestres ainsi que des données géospatiales utilisables par les autres intervenants au projet (arpenteurs, etc.).
 
-###Services connexes
+
+### Services connexes
 tags: [Demande de certificat autorisation]
 [Déclarations de conformité]
+
+
 
 
 **Here is some bold text**
