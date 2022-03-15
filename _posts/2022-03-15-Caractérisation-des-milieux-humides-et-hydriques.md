@@ -2,9 +2,7 @@
 layout: post
 title: Caracterisation des milieux humides et hydriques
 subtitle:
-tags: [Avis d'expert]  
-[Demande de certificat autorisation]
-[Déclarations de conformité]
+tags: [Avis d'expert],[Demande de certificat autorisation],[Déclarations de conformité]
 ---
 
 
