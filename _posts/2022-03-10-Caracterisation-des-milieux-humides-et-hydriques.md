@@ -2,7 +2,7 @@
 layout: post
 title: Caractérisation des milieux humides et hydriques
 subtitle:
-tags: [Demande de certificat d'autorisation], [Caractérisation evironnementale], [Caractérisation hydrique]
+tags: [Demande de certificat d'autorisation, Caractérisation evironnementale, Caractérisation hydrique]
 comments: false
 ---
 
