@@ -2,7 +2,7 @@
 layout: post
 title: Caractérisation des milieux humides et hydriques
 subtitle:
-tags: [Demande de certificat d'autorisation, Caractérisation evironnementale, Caractérisation hydrique]
+tags: [Demande de certificat d'autorisation, Caractérisation hydrique, ligne naturelle des hautes eaux, LNHE]
 comments: false
 ---
 
@@ -12,15 +12,5 @@ Plusieurs des bénéfices rendus par les milieux humides et hydriques sont aujou
 Je vous propose une étude de la communauté végétale de votre territoire, incluant un rapport, une cartographie détaillée, des délimitations terrestres ainsi que des données géospatiales utilisables par les autres intervenants au projet (arpenteurs, etc.).
 
 
-### Sujets connexes
-tags: [Demande de certificat autorisation]  
+### Pour en savoir plus
 [https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm](https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm)
-
-
-
-
-layout: post
-title: Caractérisation des milieux humides et hydriques
-subtitle: essai
-cover-img: /assets/img/automne.jpg
-tags: [Avis d'expert],[Demande de certificat autorisation],[Déclarations de conformité]
