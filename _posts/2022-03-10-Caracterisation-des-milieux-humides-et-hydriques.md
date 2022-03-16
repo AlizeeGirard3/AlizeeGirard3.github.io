@@ -7,7 +7,7 @@ tags: [Permis de construction municipaux, Caractérisation hydrique, Ligne natur
 comments: false
 ---
 
-### Caractérisation des milieux humides et hydriques
+### C'est quoi ? À quoi ça sert ? Qu'est-ce que ça comprend ?
 
 Plusieurs des bénéfices rendus par les milieux humides et hydriques sont aujourd'hui reconnus au Québec: la loi encadre certaines activités au sein de ces écosystèmes sensibles. Afin d'obtenir un permis de construction au près des municipalités, il est nécessaire d'avoir en main un avis d'expert indiquant si des milieux humides, des cours d'eau ou des étendues d'eau se trouvent sur le territoire et leurs limites, le cas échéant. Ces avis doivent être fournis par des professionnels du domaine de l'environnement. 
 
