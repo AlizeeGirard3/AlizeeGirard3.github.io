@@ -3,7 +3,7 @@ layout: post
 title: Caractérisation des milieux humides et hydriques
 subtitle:
 cover-img: /assets/img/automne.jpg
-tags: [Demande de certificat d'autorisation, Caractérisation hydrique, ligne naturelle des hautes eaux, LNHE]
+tags: [Permis de construction municipaux, Caractérisation hydrique, Ligne naturelle des hautes eaux, LNHE]
 comments: false
 ---
 
