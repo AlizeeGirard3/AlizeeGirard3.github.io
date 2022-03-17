@@ -2,6 +2,7 @@
 layout: post
 title: Demande de certificat d'autorisation
 subtitle: 
+cover-img: /assets/img/tourbière2.jpeg
 tags: [Demande de CA, Demande de certificat d'autorisation, Caractérisation écologique, Caractérisation biologique]
 ---
 
