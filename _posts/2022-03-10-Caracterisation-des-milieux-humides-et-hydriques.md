@@ -15,4 +15,4 @@ Plusieurs des bénéfices rendus par les milieux humides et hydriques sont aujou
 
 
 *Pour en savoir plus*  
-[https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm](https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm)){:target="_blank"}
+[https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm](https://www.environnement.gouv.qc.ca/eau/rives/milieuxhumides.htm){:target="_blank"}
