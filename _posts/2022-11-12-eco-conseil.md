@@ -7,10 +7,6 @@ tags: [Programmes de subvention en transition écologique, Réduction des GES, C
 comments: false
 ---
 
-[]
-
-
-
 ### Vous souhaitez améliorer l'empreinte écologique de votre compagnie, de votre organisme, de votre développement domiciliaire ? Mille moyens s'offrent à vous !
 
 Plusieurs alternatives s'offrent aujourd'hui pour réduire l'empreinte écologique, dans tous les secteurs d'activité. Ces changements peuvent être mineurs et à faible coûts, voire économes ou subventionnés ! N'hésitez pas à me contacter pour discuter de vos besoins et objectifs. Je saurai vous orienter sur des pistes d'amélioration. Vos actions pourraient être saluées par la clientèle, le gouvernement, les municipalités et les programmes d'aide et d'encouragement à la transition écologique.
