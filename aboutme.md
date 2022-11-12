@@ -29,7 +29,7 @@ subtitle:
  * Réseautage entre les secteurs privés, les organismes, les professionnels, les associations et les palliers de gouvernance
  
 # Curriculum Vitae
-[Association des biologistes](https://www.abq.qc.ca/fr/accueil){:target="_blank"} [**# 4717**] (https://cdn.ca.yapla.com/company/CPYvjMISp3LebGTqiSA3nq77/asset/files/Liste_Membres_2022-09-20.pdf){:target="_blank"}
+[Association des biologistes](https://www.abq.qc.ca/fr/accueil){:target="_blank"} [**# 4717**](https://cdn.ca.yapla.com/company/CPYvjMISp3LebGTqiSA3nq77/asset/files/Liste_Membres_2022-09-20.pdf){:target="_blank"}
 
 #### Langues (niveau professionnel)
 * Français 
