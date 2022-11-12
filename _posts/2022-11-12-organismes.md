@@ -3,7 +3,7 @@ layout: post
 title: Consultations auprès d'organismes oeuvrant en environnement
 subtitle: Services offerts
 cover-img: /assets/img/Mh.jpeg
-tags: [Analyse personnalisée de données biologiques, Rédaction scientifique personnalisée, Revue de littérature, Avis personnalisé sur les cibles de conservation et restauration, Rédaction d'activité d'animation scientifique, Formation R : calcul rapide du recouvrement selon les critères de Lachance 2020 et Bazoge 2019 (MELCC), Réseautage]
+tags: [Analyse personnalisée de données biologiques, Rédaction scientifique personnalisée, Revue de littérature, Avis personnalisé sur les cibles de conservation et restauration, Rédaction d'activité d'animation scientifique, Formation R sur le calcul rapide du recouvrement selon les critères du MELCC (Lachance 2020), Réseautage]
 comments: false
 ---
 
