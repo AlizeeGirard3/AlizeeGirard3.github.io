@@ -17,7 +17,7 @@ subtitle:
  * L'interprétation de données et d'enjeux biologiques et environnementaux
  * Les bonnes pratiques de conservation et de restauration
  * La gouvernance environnementale
- * L'appréhension mathématique (statistique) des concepts biologique
+ * L'appréhension mathématique (statistique) des concepts biologiques
 
 #### Axe appliqué : 
  * La caractérisation biologique
