@@ -29,7 +29,8 @@ subtitle:
  * Réseautage entre les secteurs privés, les organismes, les professionnels, les associations et les palliers de gouvernance
  
 # Curriculum Vitae
-[Association des biologistes](https://www.abq.qc.ca/fr/accueil){:target="_blank"} [*# 4717*](https://cdn.ca.yapla.com/company/CPYvjMISp3LebGTqiSA3nq77/asset/files/Liste_Membres_2022-09-20.pdf){:target="_blank"}
+[Association des biologistes](https://www.abq.qc.ca/fr/accueil){:target="_blank"} [**# 4717**] (https://cdn.ca.yapla.com/company/CPYvjMISp3LebGTqiSA3nq77/asset/files/Liste_Membres_2022-09-20.pdf){:target="_blank"}
+
 #### Langues (niveau professionnel)
 * Français 
 * Anglais
@@ -51,6 +52,7 @@ subtitle:
 * **2012—2014** Études collégiales, programme Sciences de la nature (Collège de Maisonneuve)
 
 #### Publications et conférences
+* Johanna R Jantzen, Etienne Laliberté, Alexis Carteron, Rosalie Beauchamp-Rioux, Florence Blanchard, Anna L Crofts, Alizée Girard, Paul W Hacker, Maria Juliana Pardo Losada, Anna K Schweiger, Sabrina Demers-Thibeault, Nicholas C Coops, Margaret Kalacska, Mark Vellend, Anne Bruneau. (2022) Evolutionary history explains foliar spectral differences between mycorrhizal types. (article en préparation)
 * Kothari, S., Beauchamps-Rioux, R., Blanchard, F., Crofts, A. L., **Girard, A**. et al. (2022). Predicting leaf traits across functional groups using reflectance spectroscopy. bioRxiv (en pré-publication, accepté par la revue New Phytologist 26-09-2022). [https://www.biorxiv.org/content/10.1101/2022.07.01.498461](https://www.biorxiv.org/content/10.1101/2022.07.01.498461){:target="_blank"}
 * **Girard A**., Schweiger A. K., Carteron A., Kalacska M. & Laliberté E. (2020). Foliar spectra and sraits of bog plants across nitrogen deposition gradients. Remote Sensing, 15, 2448. [https://doi.org/10.3390/rs12152448](https://doi.org/10.3390/rs12152448){:target="_blank"}
 * *Girard A*. (2020). Propriétés fonctionnelles et spectrales d’espèces végétales de tourbières ombrotrophes le long d’un gradient de déposition d’azote. (Mémoire de maîtrise, Université de Montréal). Papyrus : [http://hdl.handle.net/1866/24417](http://hdl.handle.net/1866/24417){:target="_blank"}.
