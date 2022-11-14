@@ -26,7 +26,7 @@ subtitle: Alizée Girard
  * L'analyse de données (sommaire, spatiale, statistique)
  * La conservation et la restauration (bandes riveraines, milieux humides, sols, etc.) (à venir)
  * Les demandes de certificat d'autorisation
- * Réseautage entre les secteurs privés, les organismes, les professionnels, les associations et les palliers de gouvernance
+ * Le réseautage entre les secteurs privés, les organismes, les professionnels, les associations et les palliers de gouvernance
  
 # Curriculum Vitae
 [Association des biologistes](https://www.abq.qc.ca/fr/accueil){:target="_blank"} [**# 4717**](https://cdn.ca.yapla.com/company/CPYvjMISp3LebGTqiSA3nq77/asset/files/Liste_Membres_2022-09-20.pdf){:target="_blank"}
