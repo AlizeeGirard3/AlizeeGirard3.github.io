@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos
-subtitle: 
+subtitle: Alizée Girard
 ---
 
 #### Passionnée de la Vie, mes expériences et connaissances sont variées et centrée autour de la recherche des meilleures pratiques de cohabitation humain-environnement.
