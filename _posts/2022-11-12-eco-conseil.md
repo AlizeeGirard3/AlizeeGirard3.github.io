@@ -2,7 +2,6 @@
 layout: post
 title: Consultations en éco-conseil
 subtitle: Services offerts
-cover-img: /assets/img/Mh.jpeg
 tags: [Programmes de subvention en transition écologique, Réduction des GES, Cibles de conservation et restauration, Mesures d'atténuation favorisant la biodiversité, Mesures d'atténuation favorisant les services (et fonctions) écosystémiques]
 comments: false
 ---
