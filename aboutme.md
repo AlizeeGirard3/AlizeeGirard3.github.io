@@ -36,8 +36,8 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **2020—actuel** Biologiste consultante et chargée de projets chez [Enviro-Guide A.L. inc.](http://enviroguideal.com/){:target="_blank"}
-* **2021** Comité de consultations de l'ABQ pour l’actualisation du Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques (Chapitre Q-2, r. 9.1)
+* **2020—actuel** Biologiste consultante et chargée de projets
+* **2021** Comité de consultations règlementaires de l'Association des Biologistes du Québec
 * **2021** Recherche et rédaction d’animations grand public au Jardin Botanique de Montréal
 * **2020** Assistante de recherche dans le cadre d'une thèse doctorale à l'Université de Montréal
 * **2017—2020** Animatrice scientifique
@@ -52,7 +52,7 @@ subtitle: Alizée Girard
 * **2012—2014** Études collégiales, programme Sciences de la nature (Collège de Maisonneuve)
 
 #### Publications et conférences
-* Jantzen J. R., Laliberté E., Carteron A., Beauchamp-Rioux R., Blanchard F., Crofts A. L., **Girard A.**, Hacker 		P. W., Pardo Losada A. J., Schweiger A. K., Demers-Thibeault S.,  Coops N. C., Kalacska M., Vellend M., Bruneau A. (2022) Evolutionary history explains foliar spectral differences between mycorrhizal types. *(article en préparation)*
+* Jantzen J. R., Laliberté E., Carteron A., Beauchamp-Rioux R., Blanchard F., Crofts A. L., **Girard A.**, Hacker 		P. W., Pardo Losada A. J., Schweiger A. K., Demers-Thibeault S.,  Coops N. C., Kalacska M., Vellend M., Bruneau A. (2022) Evolutionary history explains foliar spectral differences between mycorrhizal types. *New Phytologist*. [https://doi.org/10.1111/nph.18902](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18902){:target="_blank"}
 * Kothari, S., Beauchamps-Rioux, R., Blanchard, F., Crofts, A. L., **Girard, A.** et al. (2022). Predicting leaf traits across functional groups using reflectance spectroscopy. [https://doi.org/10.1111/nph.18713](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713){:target="_blank"}
 * **Girard A.**, Schweiger A. K., Carteron A., Kalacska M. & Laliberté E. (2020). Foliar spectra and traits of bog plants across nitrogen deposition gradients. Remote Sensing, 15, 2448. [https://doi.org/10.3390/rs12152448](https://doi.org/10.3390/rs12152448){:target="_blank"}
 * **Girard A.** (2020). Propriétés fonctionnelles et spectrales d’espèces végétales de tourbières ombrotrophes le long d’un gradient de déposition d’azote. (Mémoire de maîtrise, Université de Montréal). Papyrus : [http://hdl.handle.net/1866/24417](http://hdl.handle.net/1866/24417){:target="_blank"}.
