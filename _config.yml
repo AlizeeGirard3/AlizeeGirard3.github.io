@@ -17,13 +17,13 @@ navbar-links:
   À propos: "aboutme"
   Contact: "Contact"
   Pour en savoir plus:
-    - Article Jantzen et al. (2022): "https://doi.org/10.1111/nph.18902"{:target="_blank"}
-    - Article Kothari et al. (2022): "https://doi.org/10.1111/nph.18713"{:target="_blank"}
-    - Article Girard, Schweiger, Carteron et al. 2020: "https://www.mdpi.com/2072-4292/12/15/2448"{:target="_blank"}
-    - Protocole Girard, Ayotte et Laliberté. 2020: "https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye"{:target="_blank"}
-    - Mémoire de Maîtrise: "https://papyrus.bib.umontreal.ca/xmlui/handle/1866/24417" {:target="_blank"}
-    - Créez votre propre site sur la plateforme GitHub Pages/Jekyll: "https://beautifuljekyll.com"{:target="_blank"}
-    - Apprenez R markdown: "https://www.markdowntutorial.com/"{:target="_blank"}
+    - Article Jantzen et al. (2022): "https://doi.org/10.1111/nph.18902"
+    - Article Kothari et al. (2022): "https://doi.org/10.1111/nph.18713"
+    - Article Girard, Schweiger, Carteron et al. 2020: "https://www.mdpi.com/2072-4292/12/15/2448"
+    - Protocole Girard, Ayotte et Laliberté. 2020: "https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye"
+    - Mémoire de Maîtrise: "https://papyrus.bib.umontreal.ca/xmlui/handle/1866/24417"
+    - Créez votre propre site sur la plateforme GitHub Pages/Jekyll: "https://beautifuljekyll.com"
+    - Apprenez R markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
