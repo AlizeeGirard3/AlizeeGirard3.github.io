@@ -2,7 +2,7 @@
 layout: post
 title: Consultations auprès d'organisations de protection de l'environnement
 subtitle: Services offerts
-tags: [Évaluation de parcelle (personnalisable), Rapport scientifique de caractérisation biologique (selon le mandat), La valeur biologique, Avis personnalisée en conservation et restauration, Demandes de subventions, Activité d'animation scientifique, Réseautage]
+tags: [Évaluation de parcelle (personnalisable), Rapport scientifique de caractérisation biologique (selon le mandat), Valeur biologique, Avis personnalisée en conservation et restauration, Demandes de subventions, Activité d'animation scientifique, Réseautage]
 comments: false
 ---
 
