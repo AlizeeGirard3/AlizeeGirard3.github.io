@@ -5,7 +5,7 @@ subtitle: Alizée Girard
 ---
 
 #### Passionnée de la Vie, mes expériences et connaissances sont variées et centrée autour de la recherche des meilleures pratiques de cohabitation humain-environnement.
-#### J'accueille tout type d'enjeux en cherchant à conseiller le meilleur amalgame de solutions pour favoriser la transition écologique (développement durable).
+#### J'accueille tout type d'enjeux en cherchant à conseiller le meilleur amalgame de solutions pour favoriser la transition socio-écologique (développement durable).
 
 # Spécialisations
 #### Axe conceptuel : 
