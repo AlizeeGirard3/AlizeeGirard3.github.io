@@ -36,7 +36,7 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **août 2023—actuel** Directrice des opérations/direction générale intérimaire et biologiste chez Éco-pivot
+* **août 2023—actuel** Biologiste et Coordonnatrice générale chez Éco-pivot
 * **2020—actuel** Biologiste consultante
 * **2023** Chargée de projets chez Biodiversité conseil inc.
 * **2021** Comité de consultations règlementaires de l'Association des Biologistes du Québec
