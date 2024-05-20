@@ -65,14 +65,6 @@ subtitle: Alizée Girard
 * Traits and spectral properties of bog plants across environmental gradients. (2018 et 2019) Conférence annuelle du Canadian airborne biodiversity observatory ; MCGILL UNIVERSITY (Montréal, Canada)
 * L'Observatoire Aérien Canadien de la Biodiversité; à la frontière de la technologie et de la biodiversité végétale. (2018) Forum environnement, Faculté Arts et Sciences, UNIVERSITÉ DE MONTRÉAL (Canada).
 
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-\newline
-
 # Loi 25 et politique de confidentialité
 Le 22 septembre 2022, la loi 25 encadrant la protection des renseignements personnels entre en vigueur et différentes obligations s’ajouteront d’ici 2024. À titre de travailleuse autonome unique prestataire de services dans mon cabinet, je suis responsable de l’application de cette loi et des règles qui en découlent, dans le cadre de mes activités professionnelles.
 
@@ -81,6 +73,7 @@ En vertu de la Loi 25, tout professionnel ou entreprise doit se doter d’une po
 Cette politique de confidentialité est personnalisée pour représenter la pratique de Alizée Girard.
 Cette politique de confidentialité est rédigée au meilleur de mes connaissances et de mes compétences et sera mise à jour si nécessaire, afin d’y inclure toute nouvelle variable requise par la loi ou tout changement à ma pratique. Veuillez la consulter périodiquement en portant attention à la date de la version en vigueur. En faisant appel à mes services, vous consentez à la présente politique de confidentialité.
 *Si vous y remarquez des erreurs et omissions, veuillez me contacter pour m’en faire part afin que je puisse procéder aux correctifs requis, s’il y a lieu.
+
 Date de la présente version : 20 mai 2024
 
 #### Utilisation de fichiers témoins (« cookies »)
