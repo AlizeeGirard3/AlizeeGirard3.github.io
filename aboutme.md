@@ -73,7 +73,7 @@ En vertu de la Loi 25, tout professionnel ou entreprise doit se doter d’une po
 Cette politique de confidentialité est personnalisée pour représenter la pratique de Alizée Girard.
 Cette politique de confidentialité est rédigée au meilleur de mes connaissances et de mes compétences et sera mise à jour si nécessaire, afin d’y inclure toute nouvelle variable requise par la loi ou tout changement à ma pratique. Veuillez la consulter périodiquement en portant attention à la date de la version en vigueur. En faisant appel à mes services, vous consentez à la présente politique de confidentialité.
 
-* Si vous y remarquez des erreurs et omissions, veuillez me contacter pour m’en faire part afin que je puisse procéder aux correctifs requis, s’il y a lieu.*
+*Si vous y remarquez des erreurs et omissions, veuillez me contacter pour m’en faire part afin que je puisse procéder aux correctifs requis, s’il y a lieu.*
 
 Date de la présente version : 20 mai 2024
 
