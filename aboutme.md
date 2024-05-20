@@ -63,7 +63,8 @@ subtitle: Alizée Girard
 * Propriétés fonctionnelles et spectrales d’espèces végétales de tourbières ombrotrophes le long d’un gradient de déposition d’azote. Séminaire de Maîtrise; INSTITUT DE RECHERCHE EN BIOLOGIE VÉGÉTALE (Montréal, Canada)
 * Spectre foliaire d’espèces végétales des tourbières : quelle influence des dépositions azotées ? (2019) Colloque international « Écologie des communautés végétales », ECOVEG14 (Toulouse, France)
 * Traits and spectral properties of bog plants across environmental gradients. (2018 et 2019) Conférence annuelle du Canadian airborne biodiversity observatory ; MCGILL UNIVERSITY (Montréal, Canada)
-* L'Observatoire Aérien Canadien de la Biodiversité; à la frontière de la technologie et de la biodiversité végétale. (2018) Forum environnement, Faculté Arts et Sciences, UNIVERSITÉ DE MONTRÉAL (Canada)
+* L'Observatoire Aérien Canadien de la Biodiversité; à la frontière de la technologie et de la biodiversité végétale. (2018) Forum environnement, Faculté Arts et Sciences, UNIVERSITÉ DE MONTRÉAL (Canada).
+
 \newline
 \newline
 \newline
@@ -71,9 +72,11 @@ subtitle: Alizée Girard
 \newline
 \newline
 \newline
-# LOI 25 et politique de confidentialité
+
+# Loi 25 et politique de confidentialité
 Le 22 septembre 2022, la loi 25 encadrant la protection des renseignements personnels entre en vigueur et différentes obligations s’ajouteront d’ici 2024. À titre de travailleuse autonome unique prestataire de services dans mon cabinet, je suis responsable de l’application de cette loi et des règles qui en découlent, dans le cadre de mes activités professionnelles.
-La protection de vos renseignements personnels (Loi 25)
+
+#### La protection de vos renseignements personnels (Loi 25)
 En vertu de la Loi 25, tout professionnel ou entreprise doit se doter d’une politique de confidentialité et la rendre disponible à sa clientèle.
 Cette politique de confidentialité est personnalisée pour représenter la pratique de Alizée Girard.
 Cette politique de confidentialité est rédigée au meilleur de mes connaissances et de mes compétences et sera mise à jour si nécessaire, afin d’y inclure toute nouvelle variable requise par la loi ou tout changement à ma pratique. Veuillez la consulter périodiquement en portant attention à la date de la version en vigueur. En faisant appel à mes services, vous consentez à la présente politique de confidentialité.
