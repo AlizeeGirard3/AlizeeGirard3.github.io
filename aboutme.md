@@ -66,7 +66,6 @@ subtitle: Alizée Girard
 * L'Observatoire Aérien Canadien de la Biodiversité; à la frontière de la technologie et de la biodiversité végétale. (2018) Forum environnement, Faculté Arts et Sciences, UNIVERSITÉ DE MONTRÉAL (Canada)
 
 
-<div align="left">
 # LOI 25 ET POLITIQUE DE CONFIDENTIALITÉ
 Le 22 septembre 2022, la loi 25 encadrant la protection des renseignements personnels entre en vigueur et différentes obligations s’ajouteront d’ici 2024. À titre de travailleuse autonome unique prestataire de services dans mon cabinet, je suis responsable de l’application de cette loi et des règles qui en découlent, dans le cadre de mes activités professionnelles.
 La protection de vos renseignements personnels (Loi 25)
