@@ -64,9 +64,14 @@ subtitle: Alizée Girard
 * Spectre foliaire d’espèces végétales des tourbières : quelle influence des dépositions azotées ? (2019) Colloque international « Écologie des communautés végétales », ECOVEG14 (Toulouse, France)
 * Traits and spectral properties of bog plants across environmental gradients. (2018 et 2019) Conférence annuelle du Canadian airborne biodiversity observatory ; MCGILL UNIVERSITY (Montréal, Canada)
 * L'Observatoire Aérien Canadien de la Biodiversité; à la frontière de la technologie et de la biodiversité végétale. (2018) Forum environnement, Faculté Arts et Sciences, UNIVERSITÉ DE MONTRÉAL (Canada)
-
-
-# LOI 25 ET POLITIQUE DE CONFIDENTIALITÉ
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+# LOI 25 et politique de confidentialité
 Le 22 septembre 2022, la loi 25 encadrant la protection des renseignements personnels entre en vigueur et différentes obligations s’ajouteront d’ici 2024. À titre de travailleuse autonome unique prestataire de services dans mon cabinet, je suis responsable de l’application de cette loi et des règles qui en découlent, dans le cadre de mes activités professionnelles.
 La protection de vos renseignements personnels (Loi 25)
 En vertu de la Loi 25, tout professionnel ou entreprise doit se doter d’une politique de confidentialité et la rendre disponible à sa clientèle.
