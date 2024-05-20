@@ -9,11 +9,11 @@ subtitle: Contactez-moi !
 <div align="center">(514) 290-8488
   
   
-<div align="center">Dernière mise à jour : Mars 2023
+<div align="center">Dernière mise à jour : Mai 2024
 
 
 
-LOI 25 ET POLITIQUE DE CONFIDENTIALITÉ
+<div align="left">LOI 25 ET POLITIQUE DE CONFIDENTIALITÉ
 Le 22 septembre 2022, la loi 25 encadrant la protection des renseignements personnels entre en vigueur et différentes obligations s’ajouteront d’ici 2024. À titre de travailleuse autonome unique prestataire de services dans mon cabinet, je suis responsable de l’application de cette loi et des règles qui en découlent, dans le cadre de mes activités professionnelles.
 La protection de vos renseignements personnels (Loi 25)
 En vertu de la Loi 25, tout professionnel ou entreprise doit se doter d’une politique de confidentialité et la rendre disponible à sa clientèle.
