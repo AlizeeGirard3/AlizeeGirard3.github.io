@@ -50,7 +50,7 @@ subtitle: Alizée Girard
 
 #### Formations
 * **2022, 2025** Secourisme en milieu de travail
-* **2024-actuel** Doctorat en biologie végétale (Université Laval)
+* **2024—actuel** Doctorat en biologie végétale (Université Laval)
 * **2018—2020** Maîtrise en Sciences biologiques avec mention d’excellence (Université de Montréal)
 * **2014—2017** Baccalauréat en Sciences biologiques (Université de Montréal)
 * **2016** Formation sur les risques biologiques et chimiques en laboratoire
