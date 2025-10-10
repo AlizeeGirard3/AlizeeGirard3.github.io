@@ -36,8 +36,9 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **août 2023—actuel** Biologiste et Coordonnatrice générale chez Éco-pivot
-* **2020—actuel** Biologiste consultante
+* **2024-actuel**  Étudiante-chercheuse au Ph.D. au Groupe de recherche en eécologie des tourbières (L.Rochefort, S. Jutras)
+* **2020—actuel**		Biologiste consultante
+* **2023—2024** Biologiste et Coordonnatrice générale chez Éco-pivot
 * **2023** Chargée de projets chez Biodiversité conseil inc.
 * **2021** Comité de consultations règlementaires de l'Association des Biologistes du Québec
 * **2021** Recherche et rédaction d’animations grand public au Jardin Botanique de Montréal
