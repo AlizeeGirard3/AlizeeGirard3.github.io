@@ -66,7 +66,7 @@ subtitle: Alizée Girard
 * **Girard A.**, Schweiger A. K., Carteron A., Kalacska M. & Laliberté E. (2020). Foliar spectra and traits of bog plants across nitrogen deposition gradients. Remote Sensing, 15, 2448. [https://doi.org/10.3390/rs12152448](https://doi.org/10.3390/rs12152448){:target="_blank"}
 * **Girard A.** (2020). Propriétés fonctionnelles et spectrales d’espèces végétales de tourbières ombrotrophes le long d’un gradient de déposition d’azote. (Mémoire de maîtrise, Université de Montréal). Papyrus : [http://hdl.handle.net/1866/24417](http://hdl.handle.net/1866/24417){:target="_blank"}.
 * **Girard A.**, Ayotte J. & Laliberté E. (2020). Measuring chlorophylls and carotenoids en plant tissue. [https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye](https://www.protocols.io/view/chlorophylls-and-carotenoids-4g2gtye){:target="_blank"}
-* Répertoire de code : https://github.com/AlizeeGirard3
+* Répertoire de code : [https://github.com/AlizeeGirard3](https://github.com/AlizeeGirard3){:target="_blank"}
 * Propriétés fonctionnelles et spectrales d’espèces végétales de tourbières ombrotrophes le long d’un gradient de déposition d’azote. Séminaire de Maîtrise; INSTITUT DE RECHERCHE EN BIOLOGIE VÉGÉTALE (Montréal, Canada)
 * Spectre foliaire d’espèces végétales des tourbières : quelle influence des dépositions azotées ? (2019) Colloque international « Écologie des communautés végétales », ECOVEG14 (Toulouse, France)
 * Traits and spectral properties of bog plants across environmental gradients. (2018 et 2019) Conférence annuelle du Canadian airborne biodiversity observatory ; MCGILL UNIVERSITY (Montréal, Canada)
