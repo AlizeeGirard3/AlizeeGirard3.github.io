@@ -36,7 +36,7 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **2024-actuel**  Étudiante-chercheuse au Ph.D. au Groupe de recherche en eécologie des tourbières (L.Rochefort, S. Jutras)
+* **2024—actuel**  Étudiante-chercheuse au Ph.D. au Groupe de recherche en eécologie des tourbières (L.Rochefort, S. Jutras)
 * **2020—actuel**		Biologiste consultante
 * **2023—2024** Biologiste et Coordonnatrice générale chez Éco-pivot
 * **2023** Chargée de projets chez Biodiversité conseil inc.
@@ -48,7 +48,8 @@ subtitle: Alizée Girard
 * **2016** Stagiaire de recherche dans la Chaire de recherche du Canada en écotoxicologie et changements globaux (Université de Montréal)
 
 #### Formations
-* **2022** Secourisme en milieu de travail
+* **2022, 2025** Secourisme en milieu de travail
+* **2024-actuel** Doctorat en biologie végétale (Université Laval)
 * **2018—2020** Maîtrise en Sciences biologiques avec mention d’excellence (Université de Montréal)
 * **2014—2017** Baccalauréat en Sciences biologiques (Université de Montréal)
 * **2016** Formation sur les risques biologiques et chimiques en laboratoire
