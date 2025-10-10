@@ -36,7 +36,7 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **2024—actuel**  Étudiante-chercheuse au Ph.D. au Groupe de recherche en eécologie des tourbières (L.Rochefort, S. Jutras)
+* **2024—actuel**  Étudiante-chercheuse au Ph.D. au *Groupe de recherche en eécologie des tourbières* (L.Rochefort, S. Jutras)
 * **2024—actuel**		Membre du conseil d'administration pour l'entreprise d'économie sociale *Phyto-Action*
 * **2020—actuel**		Biologiste consultante
 * **2023—2024** Biologiste et Coordonnatrice générale par intérim pour l'entreprise d'économie sociale *Éco-pivot*
