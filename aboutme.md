@@ -36,7 +36,7 @@ subtitle: Alizée Girard
 * Anglais
 
 #### Expériences professionnelles
-* **2024—actuel**  Étudiante-chercheuse au Ph.D. au *Groupe de recherche en eécologie des tourbières* (L.Rochefort, S. Jutras)
+* **2024—actuel**  Étudiante-chercheuse au Ph.D. au *Groupe de recherche en écologie des tourbières* (L. Rochefort, S. Jutras)
 * **2024—actuel**		Membre du conseil d'administration pour l'entreprise d'économie sociale *Phyto-Action*
 * **2020—actuel**		Biologiste consultante
 * **2023—2024** Biologiste et Coordonnatrice générale par intérim pour l'entreprise d'économie sociale *Éco-pivot*
@@ -57,7 +57,7 @@ subtitle: Alizée Girard
 * **2012—2014** Études collégiales, programme Sciences de la nature (Collège de Maisonneuve)
 
 #### Publications et conférences
-* **Girard, A.** (2025). Compte rendu de l’évaluation du potentiel du Boisé des Promenades, lot 1 463 685, à Ste-Marthe-sur-le-Lac. 12 pages.
+* **Girard, A.** (2025). Compte rendu de l’évaluation du potentiel du Boisé des Promenades, lot 1 463 685, à Ste-Marthe-sur-le-Lac. 13 pages.
 * Vallée, C, Legault, M, Clermont, S, Blanchette, L, **Girard, A.**, Hackney, A, & Fleckenstein, M. (2025). Mémoire - Projet de loi 81 - Loi modifiant plusieurs dispositions en matière d’environnement. 					Mouvement d’action régional en environnement. 13 pages. 
 * **Girard, A.**, Auclair, V., Ortaaslan, S., Lecours Tessier, D. (2024). Bilan des travaux présenté au Bureau de la responsabilité sociale et environnementale de l’ULaval – Soutien à la biodiversité et aux services 				écosystémiques sur les espaces végétalisés – Campus pricipal, Québec et Station agronomique, Saint-Augustin-de-Desmaures (Québec) Canada). Montréal. 135 pages.
 * **Girard, A.** Biodiversité sur les campus de l’INRS — Une richesse étonnante et à préserver ! Présentation 				des résultats d’inventaires biologiques au comité de direction de l’INRS (Québec (Québec) Canada).
