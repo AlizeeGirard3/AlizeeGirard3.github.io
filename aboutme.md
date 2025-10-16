@@ -22,11 +22,12 @@ subtitle: Alizée Girard
 
 #### Axe appliqué : 
  * La caractérisation biologique
+ * L'identification et la délimitation de milieux humides
  * Les bonnes pratiques concernant les bandes riveraines
  * L'animation et la vulgarisation scientifique en biologie (tout sujet)
  * L'analyse de données (sommaire, spatiale, statistique)
- * La conservation et la restauration (bandes riveraines, milieux humides, sols, etc.) (à venir)
- * Les demandes de certificat d'autorisation
+ * La conservation et la restauration (bandes riveraines, milieux humides, phytotechnologies, etc.)
+ * Les demandes d'autorisation ministérielle
  * Le réseautage entre les secteurs privés, les organismes, les professionnels, les associations et les palliers de gouvernance
  
 # Curriculum Vitae
