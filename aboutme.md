@@ -12,6 +12,7 @@ subtitle: Alizée Girard
  * La biodiversité
  * L'écologie des milieux terrestres
  * L'écologie des milieux humides
+ * L'hydrologie de l'environnement
  * Les services et fonctions écosystémiques
  * La connectivité
  * L'interprétation de données et d'enjeux biologiques et environnementaux
